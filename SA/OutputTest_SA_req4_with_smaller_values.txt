@@ -1,0 +1,803 @@
+---------------------------------------
+
+trial_runs =
+
+     1
+
+
+sa_iterations =
+
+    20
+
+
+best_distance =
+
+       38741
+
+
+combo =
+
+           20          0.2           10
+
+Elapsed time: 0.045178 seconds
+---------------------------------------
+
+trial_runs =
+
+     2
+
+
+sa_iterations =
+
+    60
+
+
+best_distance =
+
+       34060
+
+
+combo =
+
+           20          0.2           30
+
+Elapsed time: 0.0091902 seconds
+---------------------------------------
+
+trial_runs =
+
+     3
+
+
+sa_iterations =
+
+   100
+
+
+best_distance =
+
+       25902
+
+
+combo =
+
+           20          0.2           50
+
+Elapsed time: 0.011291 seconds
+---------------------------------------
+
+trial_runs =
+
+     4
+
+
+sa_iterations =
+
+    40
+
+
+best_distance =
+
+       38970
+
+
+combo =
+
+           20          0.4           10
+
+Elapsed time: 0.0046575 seconds
+---------------------------------------
+
+trial_runs =
+
+     5
+
+
+sa_iterations =
+
+   120
+
+
+best_distance =
+
+       29496
+
+
+combo =
+
+           20          0.4           30
+
+Elapsed time: 0.01793 seconds
+---------------------------------------
+
+trial_runs =
+
+     6
+
+
+sa_iterations =
+
+   200
+
+
+best_distance =
+
+       26654
+
+
+combo =
+
+           20          0.4           50
+
+Elapsed time: 0.01748 seconds
+---------------------------------------
+
+trial_runs =
+
+     7
+
+
+sa_iterations =
+
+    60
+
+
+best_distance =
+
+       31538
+
+
+combo =
+
+           20          0.6           10
+
+Elapsed time: 0.004462 seconds
+---------------------------------------
+
+trial_runs =
+
+     8
+
+
+sa_iterations =
+
+   180
+
+
+best_distance =
+
+       28191
+
+
+combo =
+
+           20          0.6           30
+
+Elapsed time: 0.015397 seconds
+---------------------------------------
+
+trial_runs =
+
+     9
+
+
+sa_iterations =
+
+   300
+
+
+best_distance =
+
+       21787
+
+
+combo =
+
+           20          0.6           50
+
+Elapsed time: 0.029538 seconds
+---------------------------------------
+
+trial_runs =
+
+    10
+
+
+sa_iterations =
+
+   140
+
+
+best_distance =
+
+       31129
+
+
+combo =
+
+           20          0.8           10
+
+Elapsed time: 0.010669 seconds
+---------------------------------------
+
+trial_runs =
+
+    11
+
+
+sa_iterations =
+
+   420
+
+
+best_distance =
+
+       22861
+
+
+combo =
+
+           20          0.8           30
+
+Elapsed time: 0.034497 seconds
+---------------------------------------
+
+trial_runs =
+
+    12
+
+
+sa_iterations =
+
+   700
+
+
+best_distance =
+
+       15930
+
+
+combo =
+
+           20          0.8           50
+
+Elapsed time: 0.046742 seconds
+---------------------------------------
+
+trial_runs =
+
+    13
+
+
+sa_iterations =
+
+    30
+
+
+best_distance =
+
+       41233
+
+
+combo =
+
+           50          0.2           10
+
+Elapsed time: 0.0050723 seconds
+---------------------------------------
+
+trial_runs =
+
+    14
+
+
+sa_iterations =
+
+    90
+
+
+best_distance =
+
+       31069
+
+
+combo =
+
+           50          0.2           30
+
+Elapsed time: 0.010159 seconds
+---------------------------------------
+
+trial_runs =
+
+    15
+
+
+sa_iterations =
+
+   150
+
+
+best_distance =
+
+       31879
+
+
+combo =
+
+           50          0.2           50
+
+Elapsed time: 0.01005 seconds
+---------------------------------------
+
+trial_runs =
+
+    16
+
+
+sa_iterations =
+
+    50
+
+
+best_distance =
+
+       38362
+
+
+combo =
+
+           50          0.4           10
+
+Elapsed time: 0.0047969 seconds
+---------------------------------------
+
+trial_runs =
+
+    17
+
+
+sa_iterations =
+
+   150
+
+
+best_distance =
+
+       28891
+
+
+combo =
+
+           50          0.4           30
+
+Elapsed time: 0.016902 seconds
+---------------------------------------
+
+trial_runs =
+
+    18
+
+
+sa_iterations =
+
+   250
+
+
+best_distance =
+
+       26199
+
+
+combo =
+
+           50          0.4           50
+
+Elapsed time: 0.02102 seconds
+---------------------------------------
+
+trial_runs =
+
+    19
+
+
+sa_iterations =
+
+    80
+
+
+best_distance =
+
+       32395
+
+
+combo =
+
+           50          0.6           10
+
+Elapsed time: 0.0084095 seconds
+---------------------------------------
+
+trial_runs =
+
+    20
+
+
+sa_iterations =
+
+   240
+
+
+best_distance =
+
+       25741
+
+
+combo =
+
+           50          0.6           30
+
+Elapsed time: 0.016851 seconds
+---------------------------------------
+
+trial_runs =
+
+    21
+
+
+sa_iterations =
+
+   400
+
+
+best_distance =
+
+       20926
+
+
+combo =
+
+           50          0.6           50
+
+Elapsed time: 0.030502 seconds
+---------------------------------------
+
+trial_runs =
+
+    22
+
+
+sa_iterations =
+
+   180
+
+
+best_distance =
+
+       30251
+
+
+combo =
+
+           50          0.8           10
+
+Elapsed time: 0.014065 seconds
+---------------------------------------
+
+trial_runs =
+
+    23
+
+
+sa_iterations =
+
+   540
+
+
+best_distance =
+
+       19592
+
+
+combo =
+
+           50          0.8           30
+
+Elapsed time: 0.033472 seconds
+---------------------------------------
+
+trial_runs =
+
+    24
+
+
+sa_iterations =
+
+   900
+
+
+best_distance =
+
+       16777
+
+
+combo =
+
+           50          0.8           50
+
+Elapsed time: 0.060463 seconds
+---------------------------------------
+
+trial_runs =
+
+    25
+
+
+sa_iterations =
+
+    30
+
+
+best_distance =
+
+       40236
+
+
+combo =
+
+          100          0.2           10
+
+Elapsed time: 0.0050544 seconds
+---------------------------------------
+
+trial_runs =
+
+    26
+
+
+sa_iterations =
+
+    90
+
+
+best_distance =
+
+       33845
+
+
+combo =
+
+          100          0.2           30
+
+Elapsed time: 0.011564 seconds
+---------------------------------------
+
+trial_runs =
+
+    27
+
+
+sa_iterations =
+
+   150
+
+
+best_distance =
+
+       29910
+
+
+combo =
+
+          100          0.2           50
+
+Elapsed time: 0.015311 seconds
+---------------------------------------
+
+trial_runs =
+
+    28
+
+
+sa_iterations =
+
+    60
+
+
+best_distance =
+
+       36294
+
+
+combo =
+
+          100          0.4           10
+
+Elapsed time: 0.0046674 seconds
+---------------------------------------
+
+trial_runs =
+
+    29
+
+
+sa_iterations =
+
+   180
+
+
+best_distance =
+
+       26789
+
+
+combo =
+
+          100          0.4           30
+
+Elapsed time: 0.012597 seconds
+---------------------------------------
+
+trial_runs =
+
+    30
+
+
+sa_iterations =
+
+   300
+
+
+best_distance =
+
+       24125
+
+
+combo =
+
+          100          0.4           50
+
+Elapsed time: 0.019462 seconds
+---------------------------------------
+
+trial_runs =
+
+    31
+
+
+sa_iterations =
+
+   100
+
+
+best_distance =
+
+       32209
+
+
+combo =
+
+          100          0.6           10
+
+Elapsed time: 0.0073435 seconds
+---------------------------------------
+
+trial_runs =
+
+    32
+
+
+sa_iterations =
+
+   300
+
+
+best_distance =
+
+       22697
+
+
+combo =
+
+          100          0.6           30
+
+Elapsed time: 0.019581 seconds
+---------------------------------------
+
+trial_runs =
+
+    33
+
+
+sa_iterations =
+
+   500
+
+
+best_distance =
+
+       19885
+
+
+combo =
+
+          100          0.6           50
+
+Elapsed time: 0.028432 seconds
+---------------------------------------
+
+trial_runs =
+
+    34
+
+
+sa_iterations =
+
+   210
+
+
+best_distance =
+
+       21529
+
+
+combo =
+
+          100          0.8           10
+
+Elapsed time: 0.015907 seconds
+---------------------------------------
+
+trial_runs =
+
+    35
+
+
+sa_iterations =
+
+   630
+
+
+best_distance =
+
+       17284
+
+
+combo =
+
+          100          0.8           30
+
+Elapsed time: 0.03831 seconds
+---------------------------------------
+
+trial_runs =
+
+    36
+
+
+sa_iterations =
+
+        1050
+
+
+best_distance =
+
+       14283
+
+
+combo =
+
+          100          0.8           50
+
+Elapsed time: 0.084302 seconds
+ 
+------------Final Results----------------
+
+trial_runs =
+
+    36
+
+
+min_distance =
+
+       14283

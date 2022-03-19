@@ -1,0 +1,793 @@
+---------------------------------------
+Iteration no: 1/30
+
+best_distance =
+
+       10738
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738           0           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 2/30
+
+best_distance =
+
+       10770
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 3/30
+
+best_distance =
+
+       10707
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 4/30
+
+best_distance =
+
+       10983
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 5/30
+
+best_distance =
+
+       10628
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 6/30
+
+best_distance =
+
+       10716
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 7/30
+
+best_distance =
+
+       10820
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 8/30
+
+best_distance =
+
+       10860
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 9/30
+
+best_distance =
+
+       11089
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 10/30
+
+best_distance =
+
+       10711
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 11/30
+
+best_distance =
+
+       10648
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 12/30
+
+best_distance =
+
+       10628
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 13/30
+
+best_distance =
+
+       10711
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 14/30
+
+best_distance =
+
+       10690
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 15/30
+
+best_distance =
+
+       10701
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 16/30
+
+best_distance =
+
+       10855
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 17/30
+
+best_distance =
+
+       10648
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 18/30
+
+best_distance =
+
+       10738
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 19/30
+
+best_distance =
+
+       10840
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 20/30
+
+best_distance =
+
+       10770
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 21/30
+
+best_distance =
+
+       10878
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 22/30
+
+best_distance =
+
+       10785
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 23/30
+
+best_distance =
+
+       10692
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 24/30
+
+best_distance =
+
+       10711
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 25/30
+
+best_distance =
+
+       10965
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 26/30
+
+best_distance =
+
+       10835
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965       10835           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 27/30
+
+best_distance =
+
+       10628
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965       10835       10628
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 28/30
+
+best_distance =
+
+       10789
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965       10835       10628
+
+  Columns 28 through 30
+
+       10789           0           0
+
+---------------------------------------
+Iteration no: 29/30
+
+best_distance =
+
+       10725
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965       10835       10628
+
+  Columns 28 through 30
+
+       10789       10725           0
+
+---------------------------------------
+Iteration no: 30/30
+
+best_distance =
+
+       10882
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       10738       10770       10707       10983       10628       10716       10820       10860       11089
+
+  Columns 10 through 18
+
+       10711       10648       10628       10711       10690       10701       10855       10648       10738
+
+  Columns 19 through 27
+
+       10840       10770       10878       10785       10692       10711       10965       10835       10628
+
+  Columns 28 through 30
+
+       10789       10725       10882
+
+ 
+------------Final Results----------------
+
+average =
+
+        10771
+
+
+standard_deviation =
+
+        112.3
+
+Elapsed time: 12.9 minutes

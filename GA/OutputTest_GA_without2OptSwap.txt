@@ -1,0 +1,963 @@
+---------------------------------------
+Iteration no: 1/30
+
+best_distance =
+
+       25418
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418           0           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 2/30
+
+best_distance =
+
+       25028
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418       25028           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 3/30
+
+best_distance =
+
+       21689
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418       25028       21689           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 4/30
+
+best_distance =
+
+       21818
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418       25028       21689       21818           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 5/30
+
+best_distance =
+
+       20472
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418       25028       21689       21818       20472           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 6/30
+
+best_distance =
+
+       21060
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       25418       25028       21689       21818       20472       21060           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 7/30
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('two_point_crossover', 'C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\two_point_crossover.m', 44)" style="font-weight:bold">two_point_crossover</a> (<a href="matlab: opentoline('C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\two_point_crossover.m',44,0)">line 44</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('genetic_algorithm', 'C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\genetic_algorithm.m', 25)" style="font-weight:bold">genetic_algorithm</a> (<a href="matlab: opentoline('C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\genetic_algorithm.m',25,0)">line 25</a>)
+            [offspring1, offspring2] = two_point_crossover(cities_length, parent1, parent2);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test_GA_10000_fitness_req5', 'C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\test_GA_10000_fitness_req5.m', 51)" style="font-weight:bold">test_GA_10000_fitness_req5</a> (<a href="matlab: opentoline('C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\test_GA_10000_fitness_req5.m',51,0)">line 51</a>)
+            best_distance = genetic_algorithm(cities, population_length, max_t, crossover_rate, mutation_rate);
+} 
+test_GA_10000_fitness_req5
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test_GA_10000_fitness_req5', 'C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\test_GA_10000_fitness_req5.m', 33)" style="font-weight:bold">test_GA_10000_fitness_req5</a> (<a href="matlab: opentoline('C:\Users\kargi\Desktop\University of Birmingham\Semester 2\Evolutionary Computation (Extended) [06 35376]\Assignments\Assignment 1 - Solving a TSP using SA and GA\Project files\GA\test_GA_10000_fitness_req5.m',33,0)">line 33</a>)] 
+---------------------------------------
+Iteration no: 1/30
+
+best_distance =
+
+       32088
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088           0           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 2/30
+
+best_distance =
+
+       30535
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535           0           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 3/30
+
+best_distance =
+
+       33239
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239           0           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 4/30
+
+best_distance =
+
+       33592
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592           0           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 5/30
+
+best_distance =
+
+       27977
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977           0           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 6/30
+
+best_distance =
+
+       34327
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327           0           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 7/30
+
+best_distance =
+
+       33593
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593           0           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 8/30
+
+best_distance =
+
+       32535
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535           0
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 9/30
+
+best_distance =
+
+       31945
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 10/30
+
+best_distance =
+
+       31775
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775           0           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 11/30
+
+best_distance =
+
+       32786
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786           0           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 12/30
+
+best_distance =
+
+       36846
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846           0           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 13/30
+
+best_distance =
+
+       29532
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532           0           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 14/30
+
+best_distance =
+
+       34290
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290           0           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 15/30
+
+best_distance =
+
+       39062
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062           0           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 16/30
+
+best_distance =
+
+       35111
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111           0           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 17/30
+
+best_distance =
+
+       33827
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827           0
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 18/30
+
+best_distance =
+
+       32407
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+           0           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 19/30
+
+best_distance =
+
+       32189
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189           0           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 20/30
+
+best_distance =
+
+       30585
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585           0           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 21/30
+
+best_distance =
+
+       33959
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959           0           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 22/30
+
+best_distance =
+
+       33302
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302           0           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 23/30
+
+best_distance =
+
+       30772
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772           0           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 24/30
+
+best_distance =
+
+       34952
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952           0           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 25/30
+
+best_distance =
+
+       36313
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313           0           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 26/30
+
+best_distance =
+
+       31367
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313       31367           0
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 27/30
+
+best_distance =
+
+       34338
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313       31367       34338
+
+  Columns 28 through 30
+
+           0           0           0
+
+---------------------------------------
+Iteration no: 28/30
+
+best_distance =
+
+       34525
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313       31367       34338
+
+  Columns 28 through 30
+
+       34525           0           0
+
+---------------------------------------
+Iteration no: 29/30
+
+best_distance =
+
+       35218
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313       31367       34338
+
+  Columns 28 through 30
+
+       34525       35218           0
+
+---------------------------------------
+Iteration no: 30/30
+
+best_distance =
+
+       34601
+
+
+std_distance =
+
+  Columns 1 through 9
+
+       32088       30535       33239       33592       27977       34327       33593       32535       31945
+
+  Columns 10 through 18
+
+       31775       32786       36846       29532       34290       39062       35111       33827       32407
+
+  Columns 19 through 27
+
+       32189       30585       33959       33302       30772       34952       36313       31367       34338
+
+  Columns 28 through 30
+
+       34525       35218       34601
+
+ 
+------------Final Results----------------
+
+average =
+
+        33253
+
+
+standard_deviation =
+
+         2258
+
+Elapsed time is 2.062744 seconds.

@@ -1,0 +1,625 @@
+---------------------------------------
+
+trial_runs =
+
+     1
+
+
+best_distance =
+
+       39898
+
+
+combo =
+
+           70          100          0.8         0.02
+
+Elapsed time: 0.14294 seconds
+---------------------------------------
+
+trial_runs =
+
+     2
+
+
+best_distance =
+
+       29689
+
+
+combo =
+
+           70          100          0.8          0.1
+
+Elapsed time: 0.067533 seconds
+---------------------------------------
+
+trial_runs =
+
+     3
+
+
+best_distance =
+
+       35137
+
+
+combo =
+
+           70          100          0.8          0.8
+
+Elapsed time: 0.045265 seconds
+---------------------------------------
+
+trial_runs =
+
+     4
+
+
+best_distance =
+
+       36089
+
+
+combo =
+
+           70          100          0.9         0.02
+
+Elapsed time: 0.062554 seconds
+---------------------------------------
+
+trial_runs =
+
+     5
+
+
+best_distance =
+
+       35567
+
+
+combo =
+
+           70          100          0.9          0.1
+
+Elapsed time: 0.056925 seconds
+---------------------------------------
+
+trial_runs =
+
+     6
+
+
+best_distance =
+
+       27694
+
+
+combo =
+
+           70          100          0.9          0.8
+
+Elapsed time: 0.056318 seconds
+---------------------------------------
+
+trial_runs =
+
+     7
+
+
+best_distance =
+
+       23027
+
+
+combo =
+
+           70          500          0.8         0.02
+
+Elapsed time: 0.19767 seconds
+---------------------------------------
+
+trial_runs =
+
+     8
+
+
+best_distance =
+
+       18041
+
+
+combo =
+
+           70          500          0.8          0.1
+
+Elapsed time: 0.18981 seconds
+---------------------------------------
+
+trial_runs =
+
+     9
+
+
+best_distance =
+
+       25476
+
+
+combo =
+
+           70          500          0.8          0.8
+
+Elapsed time: 0.19102 seconds
+---------------------------------------
+
+trial_runs =
+
+    10
+
+
+best_distance =
+
+       25886
+
+
+combo =
+
+           70          500          0.9         0.02
+
+Elapsed time: 0.15091 seconds
+---------------------------------------
+
+trial_runs =
+
+    11
+
+
+best_distance =
+
+       31749
+
+
+combo =
+
+           70          500          0.9          0.1
+
+Elapsed time: 0.21916 seconds
+---------------------------------------
+
+trial_runs =
+
+    12
+
+
+best_distance =
+
+       27041
+
+
+combo =
+
+           70          500          0.9          0.8
+
+Elapsed time: 0.21512 seconds
+---------------------------------------
+
+trial_runs =
+
+    13
+
+
+best_distance =
+
+       22650
+
+
+combo =
+
+           70         1000          0.8         0.02
+
+Elapsed time: 0.28358 seconds
+---------------------------------------
+
+trial_runs =
+
+    14
+
+
+best_distance =
+
+       24368
+
+
+combo =
+
+           70         1000          0.8          0.1
+
+Elapsed time: 0.2563 seconds
+---------------------------------------
+
+trial_runs =
+
+    15
+
+
+best_distance =
+
+       22211
+
+
+combo =
+
+           70         1000          0.8          0.8
+
+Elapsed time: 0.30691 seconds
+---------------------------------------
+
+trial_runs =
+
+    16
+
+
+best_distance =
+
+       20664
+
+
+combo =
+
+           70         1000          0.9         0.02
+
+Elapsed time: 0.47785 seconds
+---------------------------------------
+
+trial_runs =
+
+    17
+
+
+best_distance =
+
+       12499
+
+
+combo =
+
+           70         1000          0.9          0.1
+
+Elapsed time: 0.25054 seconds
+---------------------------------------
+
+trial_runs =
+
+    18
+
+
+best_distance =
+
+       23956
+
+
+combo =
+
+           70         1000          0.9          0.8
+
+Elapsed time: 0.33305 seconds
+---------------------------------------
+
+trial_runs =
+
+    19
+
+
+best_distance =
+
+       29946
+
+
+combo =
+
+          100          100          0.8         0.02
+
+Elapsed time: 0.043573 seconds
+---------------------------------------
+
+trial_runs =
+
+    20
+
+
+best_distance =
+
+       32220
+
+
+combo =
+
+          100          100          0.8          0.1
+
+Elapsed time: 0.070939 seconds
+---------------------------------------
+
+trial_runs =
+
+    21
+
+
+best_distance =
+
+       34279
+
+
+combo =
+
+          100          100          0.8          0.8
+
+Elapsed time: 0.051742 seconds
+---------------------------------------
+
+trial_runs =
+
+    22
+
+
+best_distance =
+
+       32165
+
+
+combo =
+
+          100          100          0.9         0.02
+
+Elapsed time: 0.056546 seconds
+---------------------------------------
+
+trial_runs =
+
+    23
+
+
+best_distance =
+
+       31238
+
+
+combo =
+
+          100          100          0.9          0.1
+
+Elapsed time: 0.068385 seconds
+---------------------------------------
+
+trial_runs =
+
+    24
+
+
+best_distance =
+
+       31118
+
+
+combo =
+
+          100          100          0.9          0.8
+
+Elapsed time: 0.06302 seconds
+---------------------------------------
+
+trial_runs =
+
+    25
+
+
+best_distance =
+
+       32474
+
+
+combo =
+
+          100          500          0.8         0.02
+
+Elapsed time: 0.1984 seconds
+---------------------------------------
+
+trial_runs =
+
+    26
+
+
+best_distance =
+
+       24085
+
+
+combo =
+
+          100          500          0.8          0.1
+
+Elapsed time: 0.15064 seconds
+---------------------------------------
+
+trial_runs =
+
+    27
+
+
+best_distance =
+
+       26129
+
+
+combo =
+
+          100          500          0.8          0.8
+
+Elapsed time: 0.18147 seconds
+---------------------------------------
+
+trial_runs =
+
+    28
+
+
+best_distance =
+
+       28280
+
+
+combo =
+
+          100          500          0.9         0.02
+
+Elapsed time: 0.25645 seconds
+---------------------------------------
+
+trial_runs =
+
+    29
+
+
+best_distance =
+
+       26869
+
+
+combo =
+
+          100          500          0.9          0.1
+
+Elapsed time: 0.22907 seconds
+---------------------------------------
+
+trial_runs =
+
+    30
+
+
+best_distance =
+
+       29842
+
+
+combo =
+
+          100          500          0.9          0.8
+
+Elapsed time: 0.22866 seconds
+---------------------------------------
+
+trial_runs =
+
+    31
+
+
+best_distance =
+
+       21721
+
+
+combo =
+
+          100         1000          0.8         0.02
+
+Elapsed time: 0.3221 seconds
+---------------------------------------
+
+trial_runs =
+
+    32
+
+
+best_distance =
+
+       19242
+
+
+combo =
+
+          100         1000          0.8          0.1
+
+Elapsed time: 0.25205 seconds
+---------------------------------------
+
+trial_runs =
+
+    33
+
+
+best_distance =
+
+       25681
+
+
+combo =
+
+          100         1000          0.8          0.8
+
+Elapsed time: 0.34568 seconds
+---------------------------------------
+
+trial_runs =
+
+    34
+
+
+best_distance =
+
+       27894
+
+
+combo =
+
+          100         1000          0.9         0.02
+
+Elapsed time: 0.42195 seconds
+---------------------------------------
+
+trial_runs =
+
+    35
+
+
+best_distance =
+
+       20933
+
+
+combo =
+
+          100         1000          0.9          0.1
+
+Elapsed time: 0.37491 seconds
+---------------------------------------
+
+trial_runs =
+
+    36
+
+
+best_distance =
+
+       33373
+
+
+combo =
+
+          100         1000          0.9          0.8
+
+Elapsed time: 0.43769 seconds
+ 
+------------Final Results----------------
+
+best_trial_run =
+
+    17
+
+
+min_distance =
+
+       12499
+
+Overall elapsed time: 6.4962 seconds
